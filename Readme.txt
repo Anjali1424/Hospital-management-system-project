@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+hello my name is Anjali sinha
 
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
